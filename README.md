@@ -31,14 +31,14 @@ Questions asked
  * Q5: Which states execute most people
 
 ## 1. How has the number of people executed since 1976 trended since? Show it on a chart/graph
-![picture alt](http://imgur.com/a/s2EqZ.png)
+![picture alt](http://imgur.com/r45eQ21.png)
 ## 2. Which year had the most executions? 
-![picture alt](http://imgur.com/a/POiyH.PNG)
+![picture alt](http://imgur.com/d9AKvlo.png)
 ## 3. Relation between race in executions show on chart/graph
-![picture alt](http://imgur.com/a/dF8JP.png)  
+![picture alt](http://imgur.com/3PE5ALL.png)  
 2=Østerbro, 3=Nørrebro, 4=Vesterbro/Kgs., 10=Amager Vest, 
 ## 4. Which had least executions and why?
-![picture alt](http://imgur.com/a/ym85A.png)
+![picture alt](http://imgur.com/A1ENcoD.png)
 ## 5. Which states execute most people
 
 Authors
